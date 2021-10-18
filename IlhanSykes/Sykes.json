@@ -1,0 +1,11 @@
+{
+    "wait": "[ WAIT ] Sedang Di Proses, Mohon Tunggu sebentar.",
+    "error": {
+        "Iv": "Link yang kamu berikan tidak valid",
+        "api": "[ ! ] Maaf terjadi kesalahan"
+    },
+    "OnlyGrup": "[ ! ] Perintah ini hanya bisa digunakan dalam group",
+    "owner": "「 *OWNER ONLY* 」\nMaaf Kak, Fitur Ini khusus Owner Bot!",
+    "GrupAdmin": "[ ! ] Perintah ini hanya bisa digunakan oleh Admin Group!",
+    "BotAdmin": "[ ! ] Perintah ini hanya bisa di gunakan ketika bot menjadi admin!"
+}
