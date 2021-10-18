@@ -8,7 +8,7 @@ const menu = (hansykes, SykesWM, hanselamat, ilhansykesSELF, jam, thisDay, day, 
 
 
 *◪* 𝙇𝙄𝙎𝙏 𝙈𝙀𝙉𝙐
-│❏️ _${hansykes}catalog>_
+│❏️ _${hansykes}catalog_
 │❏️ _${hansykes}tts <id teks>_
 │❏️ _${hansykes}translate <id teks>_
 │❏️ _${hansykes}readmore <teks|teks>_
