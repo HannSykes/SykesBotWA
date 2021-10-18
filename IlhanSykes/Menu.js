@@ -113,7 +113,7 @@ const menu = (hansykes, SykesWM, hanselamat, ilhansykesSELF, jam, thisDay, day, 
 │❏️ _${hansykes}kick <@tag>_
 │❏️ _${hansykes}add <number>_
 │❏️ _${hansykes}hidetag <teks>_
-│❏️ _${hansykes}notif <@tag>_
+│❏️ _${hansykes}notif <teks>_
 │❏️ _${hansykes}totag <reply>_
 
 *◪* 𝙊𝙒𝙉𝙀𝙍 𝙈𝙀𝙉𝙐
