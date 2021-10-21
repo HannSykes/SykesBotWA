@@ -144,6 +144,7 @@ const menu = (hansykes, SykesWM, hanselamat, ilhansykesSELF, jam, thisDay, day, 
 │❏️ _${hansykes}setbio_
 │❏️ _${hansykes}leave_
 │❏️ _${hansykes}bc <teks>_
+│❏️ _${hansykes}jadivirgam <reply>_
 │❏️ _${hansykes}setprofile <reply>_
 │❏️ _${hansykes}setfakeimg <reply>_
 │❏️ _${hansykes}sethumb <reply>_
