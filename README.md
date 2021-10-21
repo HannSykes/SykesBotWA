@@ -50,7 +50,7 @@
     "NumOwner": "62812xxxxxxx",
     "NameBot" : "SYKES BOT",
     "SykesWM" : "S Y K E S - B O T",  
-    "HannSykesAPI" : "Masukin Apikey",
+    "HannSykesAPI" : "Masukin_Apikey",
     "hansykes" : "/"
 }
 
