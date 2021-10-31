@@ -22,6 +22,7 @@ const menu = (hansykes, SykesWM, hanselamat, ilhansykesSELF, jam, thisDay, day, 
 │❏️ _${hansykes}sticker_
 │❏️ _${hansykes}ttp <teks>_
 │❏️ _${hansykes}attp <teks>_
+│❏️ _${hansykes}stikerwa <teks>_
 │❏️ _${hansykes}take <teks|teks>_
 │❏️ _${hansykes}toimg <reply stik>_
 │❏️ _${hansykes}tovideo <reply stik>_
@@ -31,6 +32,7 @@ const menu = (hansykes, SykesWM, hanselamat, ilhansykesSELF, jam, thisDay, day, 
 │❏️ _${hansykes}artimimpi <teks>_
 │❏️ _${hansykes}wiki <teks>_
 │❏️ _${hansykes}brainly <teks>_
+│❏️ _${hansykes}igstalk <teks>_
 │❏️ _${hansykes}jadwalsholat <kota>_
 │❏️ _${hansykes}lirik <judul>_
 │❏️ _${hansykes}ytsearch <query>_
@@ -49,19 +51,19 @@ const menu = (hansykes, SykesWM, hanselamat, ilhansykesSELF, jam, thisDay, day, 
 │❏️ _${hansykes}tiktok <link>_
 
 *◪* 𝙈𝘼𝙆𝙀𝙍 𝙈𝙀𝙉𝙐
-❏️ _${hansykes}nuliskiri <teks>_
-❏️ _${hansykes}nuliskanan <teks>_
-❏️ _${hansykes}foliokiri <teks>_
-❏️ _${hansykes}foliokanan <teks>_
-❏️ _${hansykes}quote <teks>_
-❏️ _${hansykes}tahta <teks>_
-❏️ _${hansykes}neon <teks>_
-❏️ _${hansykes}glow <teks>_
-❏️ _${hansykes}coffe <teks>_
-❏️ _${hansykes}coffe2 <teks>_
-❏️ _${hansykes}glitch <teks|teks>_
-❏️ _${hansykes}pubg <teks|teks>_
-❏️ _${hansykes}battlefield <teks|teks>_
+│❏ _${hansykes}nuliskiri <teks>_
+│❏ _${hansykes}nuliskanan <teks>_
+│❏️ _${hansykes}foliokiri <teks>_
+│❏ _${hansykes}foliokanan <teks>_
+│❏ _${hansykes}quote <teks>_
+│❏ _${hansykes}tahta <teks>_
+│❏ _${hansykes}neon <teks>_
+│❏ _${hansykes}glow <teks>_
+│❏ _${hansykes}coffe <teks>_
+│❏ _${hansykes}coffe2 <teks>_
+│❏ _${hansykes}glitch <teks|teks>_
+│❏ _${hansykes}pubg <teks|teks>_
+│❏️ _${hansykes}battlefield <teks|teks>_
 
 *◪* 𝙁𝙐𝙉 𝙈𝙀𝙉𝙐
 │❏️ _${hansykes}meme_
@@ -69,6 +71,7 @@ const menu = (hansykes, SykesWM, hanselamat, ilhansykesSELF, jam, thisDay, day, 
 │❏️ _${hansykes}truth_
 │❏️ _${hansykes}dare_
 │❏️ _${hansykes}fakta_
+│❏️ _${hansykes}pantun_
 │❏️ _${hansykes}cekganteng_
 │❏️ _${hansykes}cekcantik_
 │❏️ _${hansykes}jadian_
@@ -104,12 +107,16 @@ const menu = (hansykes, SykesWM, hanselamat, ilhansykesSELF, jam, thisDay, day, 
 │❏️ _${hansykes}trapnime_
 
 *◪* 𝘽𝙐𝙂 𝙈𝙀𝙉𝙐
+│❏️ _${hansykes}allbug_
 │❏️ _${hansykes}troli_
 │❏️ _${hansykes}virgam_
+│❏️ _${hansykes}virvid_
+│❏️ _${hansykes}virgif_
 │❏️ _${hansykes}buginvit_
 │❏️ _${hansykes}buglink_
 │❏️ _${hansykes}bugdoc_
 │❏️ _${hansykes}bugcatalog_
+│❏️ _${hansykes}buglokasi_
 
 *◪* 𝙂𝙍𝙊𝙐𝙋 𝙈𝙀𝙉𝙐
 │❏️ _${hansykes}welcome_
