@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/Jnw0Jb1/hanbei-1.jpg" width="128" height="128"/>
+<img src="https://c.top4top.io/p_2130qsrbx0.jpeg" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="Sykes-Bot" src="https://img.shields.io/badge/Sykes Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
