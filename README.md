@@ -8,8 +8,8 @@
 <a href="https://github.com/HannSykes"><img title="Author" src="https://img.shields.io/badge/Author-HannSykes-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
-## REQUEST FILLED ?
-<i> BUG MENU 🥴</i>
+## NOTE
+<i>UDAH GABISA DI GUNAIN YG DISINI, YG BISA ADA DI YOUTUBE !</i>
 
 ## ADD BUILDPACK
 
